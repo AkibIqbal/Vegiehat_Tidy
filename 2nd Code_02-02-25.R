@@ -42,5 +42,5 @@ Veg_Full_Data = VEGIEHAT_Pilot_Database %>%
     Price = NA
   )
 
-#View(Veg_Full_Data)
+View(Veg_Full_Data)
 
