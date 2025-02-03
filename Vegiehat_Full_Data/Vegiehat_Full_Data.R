@@ -1,9 +1,10 @@
 library(readxl)
 library(tidyverse)
-VEGIEHAT_Pilot_Database <- read_excel("C:/Projects/Vegiehat/VEGIEHAT-Pilot-Database.xlsx")
+VEGIEHAT_Pilot_Database <- read_excel("C:/Projects/Vegiehat/Vegiehat_Full_Data/VEGIEHAT-Pilot-Database.xlsx")
 #View(VEGIEHAT_Pilot_Database)
 colnames(VEGIEHAT_Pilot_Database)
-Veg_Full_Data = VEGIEHAT_Pilot_Database %>% 
+
+Vegiehat_Full_Data = VEGIEHAT_Pilot_Database %>% 
   select(
     `Submission ID`, UserId, `Submission time`, DistrictName, UpazilaName, 
     `Items to Choose`, `Value - Rice`, `Value - Flour`, `Value - Lentil`, 
@@ -153,6 +154,6 @@ Veg_Full_Data = VEGIEHAT_Pilot_Database %>%
   filter(Price != "NA")
 
 
-View(Veg_Full_Data)
+View(Vegiehat_Full_Data)
 
-
+write.csv(Vegiehat_Full_Data,"C:\\Projects\\Vegiehat\\Vegiehat_Full_Data\\Vegiehat_Full_Data.csv") 
