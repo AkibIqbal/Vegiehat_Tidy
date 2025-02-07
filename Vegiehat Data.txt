@@ -1,0 +1,81 @@
+`Submission ID`                   
+`Submission time`                 
+`UserId`                          
+`DistrictName`                   
+`UpazilaName`                     
+`Items to Choose`
+                 
+`Value - Rice`                    
+`Converted Value - Rice`         
+`Rice Purchase Options`           
+`Name of Rice`                    
+`Type of Shop for Rice`           
+`Name of Outlet for Rice`
+        
+`Value - Flour`                   
+`Converted Value - Flour`         
+`Flour Purchase Options`          
+`Type of Shop for Flour`         
+`Name of Outlet for Flour`
+        
+`Value - Lentil`                  
+`Converted Value - Lentil`        
+`Lentils Purchase Options`       
+`Type of Shop for Lentils`        
+`Name of Outlet for Lentils`
+      
+`Value - Soybean Oil`             
+`Converted Value - Soybean Oil`  
+`Soybean Oil Purchase Options`    
+`Type of Shop for Soybean Oil`    
+`Name of Outlet for Soybean Oil`
+  
+`Value - Salt`                   
+`Converted Value - Salt`          
+`Salt Purchase Options`           
+`Type of Shop for Salt`           
+`Name of Outlet for Salt`
+        
+`Value - Sugar`                   
+`Converted Value - Sugar`         
+`Source of Sugar`                 
+`Sugar Purchase Options`         
+`Type of Shop for Sugar`          
+`Name of Outlet for Sugar`
+        
+`Value - Eggs`                    
+`Converted Value - Eggs`         
+`Eggs Purchase Options`           
+`Name of Outlet for Eggs`
+         
+`Value - Chicken`                 
+`Converted Value - Chicken`      
+`Chicken Purchase Options`        
+`Type of Shop for Chicken`        
+`Name of Outlet for Chicken`
+      
+`Value - Potato`                 
+`Converted Value - Potato`        
+`Potato Purchase Options`         
+`Type of Shop for Potato`         
+`Name of Outlet for Potato`
+      
+`Value - Eggplant`                
+`Converted Value - Eggplant`      
+`Types of Eggplant`               
+`Type of Shop for Eggplant`      
+`Name of Outlet for Eggplant`
+     
+`Value - Onion`                   
+`Converted Value - Onion`         
+`Source of Onion`                
+`Type of Shop for Onion`          
+`Name of Outlet for Onion`
+        
+`Value - Green Chilli`            
+`Converted Value - Green Chilli` 
+`Type of Shop for Green Chilli`   
+`Name of Outlet for Green Chilli`
+ 
+`Your Comments`                  
+

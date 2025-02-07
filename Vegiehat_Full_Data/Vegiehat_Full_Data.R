@@ -156,4 +156,4 @@ Vegiehat_Full_Data = VEGIEHAT_Pilot_Database %>%
 
 View(Vegiehat_Full_Data)
 
-write.csv(Vegiehat_Full_Data,"C:\\Projects\\Vegiehat\\Vegiehat_Full_Data\\Vegiehat_Full_Data.csv") 
+#write.csv(Vegiehat_Full_Data,"C:\\Projects\\Vegiehat\\Vegiehat_Full_Data\\Vegiehat_Full_Data.csv") 
