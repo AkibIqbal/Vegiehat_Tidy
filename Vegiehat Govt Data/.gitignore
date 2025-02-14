@@ -9,6 +9,7 @@
 .Rhistory
 .RData
 .Rproj.user/
+.Rproj
 
 # OS specific files
 .DS_Store
